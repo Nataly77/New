@@ -11,7 +11,7 @@ class TestBoxer(unittest.TestCase):
         self.assertEqual(boxer.Ahmed.weight, 180)
 
     def test_weight(self):
-        self.assertEqual(boxer.Ahmed.weightw, 78)
+        self.assertEqual(boxer.Ahmed.weight, 78)
 
     def test_age(self):
         self.assertEqual(boxer.Ahmed.age, 15)
